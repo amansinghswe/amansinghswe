@@ -47,13 +47,23 @@ while(coding) {
 </p>
 
 ---
-
 ### 🚀 Projects I'm Proud Of
 
-📌 **[DevConnect](https://github.com/amansinghswe/devconnect)** — A social platform for devs to collaborate, chat, and share projects.
-📌 **[Covid-19 Tracker](https://github.com/amansinghswe/covid19-tracker)** — A real-time data visualization tool using Flask and Matplotlib.
-📌 **[Personal Diary](https://github.com/amansinghswe/personal-diary)** — A Django-based journaling app with secure storage.
-📌 **[Portfolio Website](https://github.com/amansinghswe/portfolio)** — Sleek and responsive portfolio built on Node.js and MongoDB.
+<p align="left">
+
+📌 <strong><a href="https://github.com/amansinghswe/devconnect">DevConnect</a></strong>
+A social platform for devs to collaborate, chat, and share projects.
+
+📌 <strong><a href="https://github.com/amansinghswe/covid19-tracker">Covid-19 Tracker</a></strong>
+A real-time data visualization tool using Flask and Matplotlib.
+
+📌 <strong><a href="https://github.com/amansinghswe/personal-diary">Personal Diary</a></strong>
+A Django-based journaling app with secure storage.
+
+📌 <strong><a href="https://github.com/amansinghswe/portfolio">Portfolio Website</a></strong>
+Sleek and responsive portfolio built on Node.js and MongoDB.
+
+</p>
 
 ---
 
