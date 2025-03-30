@@ -51,17 +51,20 @@ while(coding) {
 
 <p align="left">
 
-📌 <strong><a href="https://github.com/amansinghswe/devconnect">DevConnect</a></strong>
-A social platform for devs to collaborate, chat, and share projects.
+📌 <strong><a href="https://github.com/amansinghswe/ai-agent-todo-app">AI Agent Todo app</a></strong>
+AI agent which helps in creating/editing/searching and dynamically querying TODO's all by using natural language. Uses OpenAI / Deepseek / Gemini API keys.
 
-📌 <strong><a href="https://github.com/amansinghswe/covid19-tracker">Covid-19 Tracker</a></strong>
+📌 <strong><a href="https://github.com/amansinghswe/journal">Journal</a></strong>
+A modern web-based journaling platform built with the MERN stack that enables users to create, manage, and store their personal journals securely.
+
+📌 <strong><a href="https://github.com/amansinghswe/Web-app-for-Covid-India">Covid 19 Tracker</a></strong>
 A real-time data visualization tool using Flask and Matplotlib.
 
 📌 <strong><a href="https://github.com/amansinghswe/personal-diary">Personal Diary</a></strong>
 A Django-based journaling app with secure storage.
 
 📌 <strong><a href="https://github.com/amansinghswe/portfolio">Portfolio Website</a></strong>
-Sleek and responsive portfolio built on Node.js and MongoDB.
+Sleek and responsive portfolio built on NextJs
 
 </p>
 
