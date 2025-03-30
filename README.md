@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aman Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+<h1 align="center">Hi there, I'm Aman Kumar Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=440&lines=Backend+Engineer+%F0%9F%94%A7;System+Design+Lover+%F0%9F%94%8A;Clean+Code+Advocate+%F0%9F%93%9D%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%AA"/>
