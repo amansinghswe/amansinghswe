@@ -70,11 +70,11 @@ while(coding) {
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansinghswe&show_icons=true&theme=default" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amansinghswe&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amansinghswe" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinghswe&layout=compact&theme=radical" alt="Top Langs"/>
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amansinghswe&theme=github-light" alt="Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansinghswe&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
